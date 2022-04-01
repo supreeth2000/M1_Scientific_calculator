@@ -18,7 +18,7 @@ int ncr(int n,int r);
 int determinant();
 float square(float x);
 float cube(float x);
-
+/*
 int main()
 {
     char o;
@@ -156,7 +156,7 @@ int main()
              
     }
         return 0;
-
+*/
 }
 
 int add(int a,int b)
