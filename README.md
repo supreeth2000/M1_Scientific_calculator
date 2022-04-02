@@ -12,3 +12,10 @@ Cpp check :  [![cpp check](https://github.com/supreeth2000/M1_Scientific_calcula
 
 
 Unit testing : [![unit test](https://github.com/supreeth2000/M1_Scientific_calculator/actions/workflows/unittest.yml/badge.svg)](https://github.com/supreeth2000/M1_Scientific_calculator/actions/workflows/unittest.yml)
+
+Scientific Calculator performs different mathematical operations that are not present in simple calculator.
+
+Example : Quadratic roots,
+           npr and ncr,
+           Determinant of a matrix,
+           Trignometric values of sin , cos and tangent of angle.
