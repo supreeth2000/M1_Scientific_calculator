@@ -9,3 +9,6 @@ C/C++ CI  : [![C/C++ CI](https://github.com/supreeth2000/M1_Scientific_calculato
 
 
 Cpp check :  [![cpp check](https://github.com/supreeth2000/M1_Scientific_calculator/actions/workflows/analysis.yml/badge.svg)](https://github.com/supreeth2000/M1_Scientific_calculator/actions/workflows/analysis.yml)
+
+
+Unit testing : [![unit test](https://github.com/supreeth2000/M1_Scientific_calculator/actions/workflows/unittest.yml/badge.svg)](https://github.com/supreeth2000/M1_Scientific_calculator/actions/workflows/unittest.yml)
